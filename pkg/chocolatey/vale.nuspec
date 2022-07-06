@@ -4,7 +4,7 @@
 	<metadata>
 		<!-- id — lowercase name of package, title — real name of program -->
 		<id>vale</id>
-		<version>2.18.0</version>
+		<version>2.20.0</version>
 		<title>Vale</title>
 		<authors>Joseph Kato</authors>
 		<owners>Joseph Kato</owners>
@@ -12,7 +12,7 @@
 		<projectUrl>https://github.com/errata-ai/vale</projectUrl>
 		<!-- It would be nice, if you don't use whitespaces in path to image. -->
 		<iconUrl>https://github.com/errata-ai.png</iconUrl>
-		<packageSourceUrl>https://github.com/errata-ai/vale/tree/v2/cmd/chocolatey</packageSourceUrl>
+		<packageSourceUrl>https://github.com/errata-ai/install/tree/main/pkg/chocolatey</packageSourceUrl>
 		<docsUrl>https://vale.sh/</docsUrl>
 		<!-- Points to the forum or email list group for the software. -->
 		<mailingListUrl>https://github.com/errata-ai/vale/issues</mailingListUrl>
